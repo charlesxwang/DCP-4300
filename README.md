@@ -15,3 +15,5 @@
 | Week 13 |
 | Week 14 |
 | Week 15 | 
+
+Disclaimer: This syllabus represents the current plans and objectives. As we go through the semester, those plans may need to change to enhance the class learning opportunity. Such changes, communicated clearly, are not unusual and should be expected.
